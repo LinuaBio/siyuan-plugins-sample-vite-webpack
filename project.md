@@ -1,0 +1,9 @@
+vite项目:
+./tsconfig.node.json
+./tsconfig.json
+./vite.config.ts
+./index.html
+./src/assets
+./src/App.vue
+./src/main.vue
+./src/style.css
