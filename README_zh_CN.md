@@ -2,7 +2,7 @@
 
 pnpm run vite:启动vite前端项目
 
-pnpm run dev:打包项目到思源，注意修改webpack.config.js文件中的outPath字段
+pnpm run build:打包项目到思源，注意修改webpack.config.js文件中的outPath字段
 
 在index.ts中可以使用以下代码访问你的vue文件
 ```typescript

@@ -2,7 +2,7 @@ Integrated with Vite, you can use
 
 pnpm run vite: Launch the vite web project
 
-pnpm run dev: Package the project to Siyuan and pay attention to modifying the outPath field in the webpack.config.js file
+pnpm run build: Package the project to Siyuan and pay attention to modifying the outPath field in the webpack.config.js file
 
 You can use the following code to access your Vue file in index.ts
 ```typescript
